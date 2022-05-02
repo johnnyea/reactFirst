@@ -1,0 +1,30 @@
+[
+    {
+        "name": "blue",
+        "codigo": "#0000ff"
+    },
+    {
+        "name": "red",
+        "codigo": "#ff0000"
+    },
+    {
+        "name": "yellow",
+        "codigo": "#ffff00"
+    },
+    {
+        "name": "green",
+        "codigo": "#008000"
+    },
+    {
+        "name": "gray",
+        "codigo": "#808080"
+    },
+    {
+        "name": "pink",
+        "codigo": "#ffc0cb"
+    },
+    {
+        "name": "lightblue",
+        "codigo": "#add8e6"
+    }
+]

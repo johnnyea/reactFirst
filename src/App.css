@@ -1,0 +1,30 @@
+.App{
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 50vw;
+    display: flex;
+}
+
+ul{
+    list-style: none;
+}
+
+.card {
+    background-color: white;
+    width: 600px;
+    height: 150px;
+    padding: 50px;
+    display: flex;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style:oblique;
+}
+button{
+    width: 50px;
+    height: 50px;
+    margin-left: -60px;
+    margin-top: 150px;
+    border-radius: 30px;
+}
+
