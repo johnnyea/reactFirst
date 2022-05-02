@@ -3,7 +3,7 @@
     justify-content: center;
     align-items: center;
     width: 100vw;
-    height: 100vw;
+    height: 60vw;
     display: flex;
 }
 
@@ -13,6 +13,8 @@ ul{
 
 .card {
     background-color: white;
+    border-radius: 20px;
+    box-shadow: 4px 4px 10px rgb(43, 38, 38);
     width: 600px;
     height: 150px;
     padding: 50px;
